@@ -1,4 +1,3 @@
-3
 student={}
 n=int(input("enter a number of students"))
 for i in range(n):
@@ -50,6 +49,7 @@ while True:
         break
     else:
         print("invalid choice")        
+
 
 
 
